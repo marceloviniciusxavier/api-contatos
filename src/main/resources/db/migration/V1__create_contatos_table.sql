@@ -1,0 +1,6 @@
+CREATE TABLE contatos (
+    id BIGSERIAL PRIMARY KEY,
+    nome VARCHAR(120) NOT NULL,
+    email VARCHAR(250) NOT NULL,
+    telefone VARCHAR(20) NOT NULL
+);
