@@ -1,4 +1,4 @@
-package br.com.nuvvo_api.config;
+package br.com.nuvvo.nuvvo_api.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
